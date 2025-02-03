@@ -24,3 +24,18 @@ footer {
     height: 265px;
     border-radius: 10px;
 }
+.listA{
+    text-align: center;
+}
+
+li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 5px;
+  
+   
+    border-radius: 4px;
+    gap: 10px; /* Espaço entre o texto e o botão */
+}
