@@ -1,3 +1,8 @@
+// Função para adicionar interatividade ao botão
+document.getElementById('botaoInterativo').addEventListener('click', function () {
+    alert('Me contrata! 🎉 Email: 26rodrigocurso@gmail.com');
+});
+
 // Seleciona os elementos do DOM
 const animeInput = document.getElementById('anime-input');
 const addBtn = document.getElementById('add-btn');
